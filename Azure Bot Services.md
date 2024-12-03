@@ -2,6 +2,7 @@ To create your **Smart Mirror** project with image processing and interactive vo
 
 ---
 
+
 ### Overview of Key Azure Services:
 
 - **Azure Blob Storage**: Store images captured by the **ESP32-CAM**.

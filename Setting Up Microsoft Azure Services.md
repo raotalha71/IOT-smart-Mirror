@@ -3,6 +3,7 @@ For your **Smart Mirror project** that requires both image processing and voice 
 
 ### 1. **Image Processing**:
 
+
 For analyzing the image captured by the ESP32-CAM, you can use **Azure Cognitive Services - Computer Vision**.
 
 - **Azure Computer Vision API** will allow you to analyze images, detect objects, extract text, and generate descriptions from the image.

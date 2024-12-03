@@ -2,6 +2,7 @@ Let's reevaluate and refine your **Smart Mirror project workflow** to ensure eve
 
 ---
 
+
 ### **Objective of the Smart Mirror**
 
 1. **Trigger and Input**:
