@@ -3,6 +3,7 @@ Let me break down **Azure Cognitive Services** and the specific tools you can us
 
 ### 1. **Azure Cognitive Services - Computer Vision**:
 
+
 This service allows you to analyze images and extract meaningful information. It includes capabilities like object detection, image recognition, and text extraction. You can use it to process images captured by the **ESP32-CAM** in your project.
 
 #### **Key Features:**

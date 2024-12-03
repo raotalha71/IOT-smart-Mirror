@@ -1,5 +1,6 @@
 Creating a **detailed circuit analysis** for your **Smart Mirror project** involves integrating all your chosen components: ESP32-CAM, PAM8610 amplifier, MAX9814 microphone amplifier, and the necessary power supply circuit with proper voltage regulation, capacitor smoothing, and wiring. Here's the complete breakdown:
 
+
 ---
 
 ### **1. Components and Their Roles**

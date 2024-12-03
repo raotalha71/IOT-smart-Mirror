@@ -1,5 +1,6 @@
 ### **Azure Functions** (Optional) - Overview
 
+
 **Azure Functions** is a **serverless computing** service offered by Microsoft Azure. It allows you to run small pieces of code (functions) without having to manage the underlying infrastructure. The functions are triggered by specific events or conditions, and you only pay for the time your code runs, making it efficient for certain tasks where you don’t want to maintain a full backend service.
 
 For your **Smart Mirror** project, **Azure Functions** can be used to handle specific processes like analyzing images or processing user queries in a serverless manner. You can trigger a function based on events like an image being uploaded or a user speaking to the system.

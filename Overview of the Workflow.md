@@ -4,6 +4,7 @@ Here's how all the components will work together, their workflows, and how they 
 
 ---
 
+
 ### **1. Key Components and Their Roles**
 
 #### **a. ESP32-CAM**
